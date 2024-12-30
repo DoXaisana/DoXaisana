@@ -2,14 +2,18 @@
 
 ###
 
-<p align="left">Welcome to my Github profile:<br><br>- I'm Firmware Engineer for Sensornode.<br>- Working with Mircocontroller.<br>- A little bit with cryptography.</p>
+<p align="left">Welcome to my Github profile:<br><br>- I'm <b>Firmware Engineer</b> for Sensornode.<br>- Working with <b>Mircocontroller</b>.<br>- A little bit with <b>ryptography.</b>c</p>
+
+###
+
+<h4 align="left">Software & Tools:</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
@@ -19,10 +23,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" height="30" alt="elm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
 </div>
+
+###
+
+<h4 align="left">Context me:</h4>
 
 ###
 
@@ -46,7 +54,7 @@
 
 ###
 
-<img align="left" height="180" src="https://i.imgur.com/RnweZWH.gif"  />
+<img align="left" height="130" src="https://i.imgur.com/RnweZWH.gif"  />
 
 ###
 
