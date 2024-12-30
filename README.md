@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my Github profile:<br><br>- I'm <b>Firmware Engineer</b> for Sensornode.<br>- Working with <b>Mircocontroller</b>.<br>- A little bit with <b>ryptography.</b>c</p>
+<p align="left">Welcome to my Github profile:<br><br>- I'm <b>Firmware Engineer</b> for Sensornode.<br>- Working with <b>Mircocontroller</b>.<br>- A little bit with <b>ryptography.</b></p>
 
 ###
 
