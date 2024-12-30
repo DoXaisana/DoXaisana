@@ -47,7 +47,12 @@
 ###
 
 <img align="left" height="180" src="https://i.imgur.com/RnweZWH.gif"  />
-<br>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
