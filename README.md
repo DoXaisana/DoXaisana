@@ -30,11 +30,9 @@
 
 ###
 
-<h4 align="left">Context me:</h4>
+<h4 align="left">Contact me:</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.facebook.com/xaisana.lattaphon" target="_blank">
