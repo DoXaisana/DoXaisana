@@ -52,10 +52,6 @@
 
 ###
 
-<img align="left" height="130" src="https://i.imgur.com/RnweZWH.gif"  />
-
-###
-
 <br clear="both">
 
 <p align="left"></p>
